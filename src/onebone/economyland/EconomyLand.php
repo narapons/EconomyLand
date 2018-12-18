@@ -36,7 +36,6 @@ use pocketmine\Player;
 use pocketmine\level\Position;
 use pocketmine\level\Level;
 use pocketmine\event\EventPriority;
-use pocketmine\plugin\MethodEventExecutor;
 
 use onebone\economyapi\EconomyAPI;
 use onebone\economyland\database\YamlDatabase;
